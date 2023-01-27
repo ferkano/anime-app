@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/anime-app/static/css/main.e4d45b32.css",
+    "main.js": "/anime-app/static/js/main.cae5bbaa.js",
+    "static/js/787.343c7dbc.chunk.js": "/anime-app/static/js/787.343c7dbc.chunk.js",
+    "static/media/details.png": "/anime-app/static/media/details.ac552985819b5b27a9e0.png",
+    "static/media/anime.jpg": "/anime-app/static/media/anime.e1adef58cfbdec1aac84.jpg",
+    "static/media/Chart.jpg": "/anime-app/static/media/Chart.c91e8a7c9916687dd12b.jpg",
+    "index.html": "/anime-app/index.html",
+    "main.e4d45b32.css.map": "/anime-app/static/css/main.e4d45b32.css.map",
+    "main.cae5bbaa.js.map": "/anime-app/static/js/main.cae5bbaa.js.map",
+    "787.343c7dbc.chunk.js.map": "/anime-app/static/js/787.343c7dbc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e4d45b32.css",
+    "static/js/main.cae5bbaa.js"
+  ]
+}
