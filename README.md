@@ -4,6 +4,7 @@
 
 ##### The following technologies were used:
 
+- Create react app.
 - Sass.
 - Boostrap.
 - Flexbox and Grid.
